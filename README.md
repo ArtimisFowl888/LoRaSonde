@@ -70,7 +70,7 @@ logging of data.
 | Temp/humidity sensor | 1 | https://www.adafruit.com/product/4566 | 4.50  |
 | gps                  | 1 | https://www.adafruit.com/product/4415 | 29.95 |
 
-*  
+
 *research required to see if Arduino have enough memory buffer to operate in a
 mesh configuration
 
